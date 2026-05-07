@@ -1,4 +1,4 @@
 
 LEFTSIDE
 HI
-T
+TRY
