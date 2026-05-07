@@ -1,4 +1,1 @@
-
-START
-OK
-OK2
+ALL
