@@ -1,10 +1,1 @@
-
-HI
-HI
-OK
-OK2
-SA
-66
-TY
-YS
-YS
+START
